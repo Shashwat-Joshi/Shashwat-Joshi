@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shashwat-Joshi](https://github.com/Shashwat-Joshi)
 
-- 💬 Ask me about **Flutter and for any opensource contribution**
+- 💬 Ask me about **Flutter or for any opensource contribution**
 
 - 📫 How to reach me **shashwat2002joshi@gmail.com**
 
